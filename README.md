@@ -1,2 +1,2 @@
 # Piggy
-A  PHP application for tracking expenses.
+A PHP application for tracking expenses
